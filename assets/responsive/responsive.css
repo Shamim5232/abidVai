@@ -30,6 +30,12 @@
   header .leftSide {
     width: 100%;
   }
+  #about .wrapper{
+    flex-direction: column;
+  }
+  #contact .wrapper{
+    flex-direction: column;
+  }
 }
 @media (max-width: 576px) {
 }
